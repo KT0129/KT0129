@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KT0129
-- 👀 I’m interested in Music, 3DCG Animation, and Programming
-- 🌱 I’m currently learning Music, 3DCG Animation, and Programming
+- 👋 Hi, I’m @KT0129.
+- 👀 I’m interested in Music, 3DCG Animation, and Programming.
+- 🌱 I’m currently learning Music, 3DCG Animation, and Programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
